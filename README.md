@@ -35,9 +35,12 @@ El modelo identificó **5 segmentos clave** de clientes:
    git clone [https://github.com/FranTdev/Segmentacion_Clientes_KMeans.git](https://github.com/FranTdev/Segmentacion_Clientes_KMeans.git)
 
 2. Instalar dependencias:
+   ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn
 
 3. Ejecutar el notebook Segmentacion_KMeans.ipynb en Jupyter o VS Code.
+   
+4. Tambien pueden ingresar con [Colab](https://colab.research.google.com/github/FranTdev/Segmentacion_Clientes_KMeans/blob/main/Segmentacion_KMeans.ipynb)
 
 
 Proyecto desarrollado por mi Francisco Steven Tabares como parte de mi portafolio de Análisis de Datos.
